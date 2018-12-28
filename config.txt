@@ -1,4 +1,4 @@
-﻿token= NTI4MjAxMjgwNDAxODMzOTk0.Dwe5gA.iD3OuhsRPNLoUip_RbkpVq3O-_g
+token= NTI4MjAxMjgwNDAxODMzOTk0.Dwe8ow.wNBmQ4TlUUNt8XVM9KgYNSFGkOk
 owner=466672045233799174
 prefix= !
 game=!play
